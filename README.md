@@ -1,5 +1,7 @@
 # Тестовая задача для Rock'n'Block
 
+* Ссылка на смарт-контракт: **https://github.com/Septemberer/solidity_dev_test/blob/main/contracts/Wallet.sol**
+
 ## Тех.Задание:
 
 * Возможность отправлять/принимать ETH
